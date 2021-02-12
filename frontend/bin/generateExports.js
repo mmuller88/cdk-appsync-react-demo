@@ -19,7 +19,7 @@ let awsmobile = {
     aws_project_region: REGION,
     aws_appsync_graphqlEndpoint: '',
     aws_appsync_region: REGION,
-    aws_appsync_authenticationType: 'AWS_IAM',
+    // aws_appsync_authenticationType: 'AWS_IAM',
     aws_cognito_region: REGION,
     aws_user_pools_id: '',
     aws_user_pools_web_client_id: '',
